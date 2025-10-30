@@ -1,0 +1,5 @@
+ipyleaflet
+ipywidgets
+nest_asyncio
+pandas
+numpy
